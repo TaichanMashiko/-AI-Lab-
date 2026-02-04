@@ -1,0 +1,5 @@
+{
+  "name": "アカウント確認アプリ",
+  "description": "メールアドレスを入力して、スプレッドシートからIDとパスワードを確認する生徒用アプリケーション",
+  "requestFramePermissions": []
+}
